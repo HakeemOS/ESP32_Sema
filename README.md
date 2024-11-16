@@ -1,4 +1,4 @@
-# _ESP 32 Series _
+# _ESP 32 Series_
 
 ## Semaphore Project
 Using semaphore to signal to 1 task when the other tasks have completed 
